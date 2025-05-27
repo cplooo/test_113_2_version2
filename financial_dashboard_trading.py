@@ -10,7 +10,7 @@ import os
 #import haohaninfo
 #from order_Lo8 import Record
 import numpy as np
-#from talib.abstract import SMA,EMA, WMA, RSI, BBANDS, MACD
+from talib.abstract import SMA,EMA, WMA, RSI, BBANDS, MACD
 #import sys
 import indicator_f_Lo2_short,datetime, indicator_forKBar_short
 import pandas as pd
